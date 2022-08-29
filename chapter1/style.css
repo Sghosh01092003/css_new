@@ -1,0 +1,10 @@
+#first{ 
+    background-color: rgb(238, 250, 215);
+}
+#second{
+    background-color: aquamarine;
+}
+.bg-blue{
+    background-color: rgb(71, 5, 153);
+    color: azure;
+}
